@@ -1,0 +1,31 @@
+.SummaryBox{
+    width: 100%;
+    flex: 1;
+}
+
+.BoxItem{
+    cursor: pointer;
+    width: 40%;
+    -webkit-box-shadow: 5px 5px 15px 5px rgba(0,0,0,0.57); 
+    box-shadow: 5px 5px 15px 5px rgba(0,0,0,0.57);
+}
+
+.formContainer{
+    width: 60%;
+
+}
+
+.AbsoluteNumber{
+   
+}
+
+.row{
+    display: flex;
+    justify-content: space-between;
+    padding: 4px;
+    font-size: 15px;
+}
+
+.SummaryBoxTitle{
+    align-items: center;
+}
